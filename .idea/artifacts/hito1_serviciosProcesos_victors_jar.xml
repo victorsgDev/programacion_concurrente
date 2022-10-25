@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="hito1_serviciosProcesos_victors:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/hito1_serviciosProcesos_victors_jar</output-path>
+    <root id="archive" name="hito1_serviciosProcesos_victors.jar">
+      <element id="module-output" name="hito1_serviciosProcesos_victors" />
+    </root>
+  </artifact>
+</component>
