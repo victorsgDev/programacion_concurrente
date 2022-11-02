@@ -1,4 +1,4 @@
-package org.example.actividad1_1;
+package actividad1_2;
 
 import java.util.ArrayList;
 

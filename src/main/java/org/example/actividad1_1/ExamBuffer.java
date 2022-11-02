@@ -1,4 +1,4 @@
-package org.example;
+package org.example.actividad1_1;
 
 import java.util.LinkedList;
 import java.util.Queue;

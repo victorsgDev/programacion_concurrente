@@ -1,8 +1,6 @@
-package org.example;
+package org.example.actividad1_1;
 
-import java.sql.Array;
 import java.util.ArrayList;
-import java.util.List;
 
 public class ExamConsumer implements Runnable {
     private Thread hilo;

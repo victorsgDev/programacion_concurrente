@@ -1,0 +1,33 @@
+Se acaba de producir el código de examen: E2-2022
+Se acaba de producir el código de examen: E1-2022
+Se acaba de producir el código de examen: E3-2022
+E3-2022; Pepe ;Pregunta 1: D
+E1-2022; Juan ;Pregunta 1: C
+E1-2022; Juan ;Pregunta 2: B
+E3-2022; Pepe ;Pregunta 2: D
+E1-2022; Juan ;Pregunta 3: B
+E2-2022; Luis ;Pregunta 1: -
+E1-2022; Juan ;Pregunta 4: D
+E3-2022; Pepe ;Pregunta 3: D
+E3-2022; Pepe ;Pregunta 4: D
+E3-2022; Pepe ;Pregunta 5: C
+E3-2022; Pepe ;Pregunta 6: C
+E3-2022; Pepe ;Pregunta 7: B
+E1-2022; Juan ;Pregunta 5: -
+E2-2022; Luis ;Pregunta 2: -
+E2-2022; Luis ;Pregunta 3: C
+E2-2022; Luis ;Pregunta 4: B
+E2-2022; Luis ;Pregunta 5: C
+E1-2022; Juan ;Pregunta 6: C
+E3-2022; Pepe ;Pregunta 8: C
+E3-2022; Pepe ;Pregunta 9: B
+E1-2022; Juan ;Pregunta 7: B
+E2-2022; Luis ;Pregunta 6: D
+E2-2022; Luis ;Pregunta 7: B
+E2-2022; Luis ;Pregunta 8: D
+E1-2022; Juan ;Pregunta 8: B
+E2-2022; Luis ;Pregunta 9: C
+E3-2022; Pepe ;Pregunta 10: C
+E2-2022; Luis ;Pregunta 10: B
+E1-2022; Juan ;Pregunta 9: B
+E1-2022; Juan ;Pregunta 10: B
